@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f59988e0-28aa-41d2-a5dd-2e1abbc29494": {
+      "ProjectGuid": "f59988e0-28aa-41d2-a5dd-2e1abbc29494",
+      "DisplayName": "Movimentos.Application",
+      "ColorIndex": 0
+    },
+    "bb99d235-1ed7-4bd6-9065-26d43132d446": {
+      "ProjectGuid": "bb99d235-1ed7-4bd6-9065-26d43132d446",
+      "DisplayName": "Movimentos.Domain",
+      "ColorIndex": 1
+    },
+    "ea116c76-b198-4481-b3bd-19c35aaf7699": {
+      "ProjectGuid": "ea116c76-b198-4481-b3bd-19c35aaf7699",
+      "DisplayName": "Movimentos.Service",
+      "ColorIndex": 2
+    },
+    "969a0470-a01e-4825-b843-da63791bab36": {
+      "ProjectGuid": "969a0470-a01e-4825-b843-da63791bab36",
+      "DisplayName": "Movimentos.Infra.Data",
+      "ColorIndex": 3
+    },
+    "25859ffc-7ea0-4524-aacd-3210ae441e16": {
+      "ProjectGuid": "25859ffc-7ea0-4524-aacd-3210ae441e16",
+      "DisplayName": "Movimentos.Infra.CrossCutting",
+      "ColorIndex": 4
+    },
+    "0c59ad60-5184-4ab7-9ad6-2ce267174670": {
+      "ProjectGuid": "0c59ad60-5184-4ab7-9ad6-2ce267174670",
+      "DisplayName": "Context",
+      "ColorIndex": 5
+    },
+    "0076e58a-31bc-430d-b430-53c855c9978d": {
+      "ProjectGuid": "0076e58a-31bc-430d-b430-53c855c9978d",
+      "DisplayName": "Mapping",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Movimentos.Domain\Movimentos.Domain.csproj" />
+    <ProjectReference Include="..\Movimentos.Infra.Data\Movimentos.Infra.Data.csproj" />
+    <ProjectReference Include="..\Movimentos.Service\Movimentos.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
